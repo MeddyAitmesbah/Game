@@ -22,7 +22,7 @@ public class Movement : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        goingright = true;
+        
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
